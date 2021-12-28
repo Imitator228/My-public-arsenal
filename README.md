@@ -6,4 +6,5 @@ shellter\shellter PRO https://www.shellterproject.com/
 
 С2 Cobalt strike
 
+pwndrop файловое хронилище и обмен https://github.com/kgretzky/pwndrop
 
