@@ -6,3 +6,4 @@ shellter\shellter PRO https://www.shellterproject.com/
 
 С2 Cobalt strike
 
+shellcode https://github.com/phra/PEzor
