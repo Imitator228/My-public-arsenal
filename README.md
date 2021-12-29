@@ -12,3 +12,4 @@ CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec для сетки
 
 donut генератор shellcode PE https://github.com/TheWover/donut (тест)
 
+mimicatz
