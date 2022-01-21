@@ -18,3 +18,4 @@ mimicatz
 
 обход uac https://github.com/Drunkmars/BypassUAC
 
+https://github.com/chroblert/WindowsVulnScan 
