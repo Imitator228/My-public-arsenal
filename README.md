@@ -13,3 +13,8 @@ CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec для сетки
 donut генератор shellcode PE https://github.com/TheWover/donut (тест)
 
 mimicatz
+
+стилер паролей с хрома на го https://github.com/darkarp/chromepass#av-detection
+
+обход uac https://github.com/Drunkmars/BypassUAC
+
