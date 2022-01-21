@@ -14,7 +14,7 @@ donut генератор shellcode PE https://github.com/TheWover/donut (тес�
 
 mimicatz
 
-стилер паролей с хрома на го https://github.com/darkarp/chromepass#av-detection
+стилер паролей с хрома на го https://github.com/darkarp/chromepass#av-detection  2-3 детекта
 
 обход uac https://github.com/Drunkmars/BypassUAC
 
