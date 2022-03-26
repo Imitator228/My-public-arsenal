@@ -19,3 +19,5 @@ mimicatz
 обход uac https://github.com/Drunkmars/BypassUAC
 
 https://github.com/chroblert/WindowsVulnScan 
+
+maskphish https://github.com/jaykali/maskphish
